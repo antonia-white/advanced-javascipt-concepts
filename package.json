@@ -1,0 +1,22 @@
+{
+  "name": "advanced-javascipt-concepts",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonia-white/advanced-javascipt-concepts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonia-white/advanced-javascipt-concepts/issues"
+  },
+  "homepage": "https://github.com/antonia-white/advanced-javascipt-concepts#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
